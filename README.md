@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=zayarhtet&color=blue&style=flat-square)
+
 <!--
 **zayarhtet/zayarhtet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
