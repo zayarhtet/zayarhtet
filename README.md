@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Readme file is under construction
+### Sorry! Readme file is under construction
 
 <!--
 **zayarhtet/zayarhtet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
