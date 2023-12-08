@@ -1,16 +1,21 @@
-### Sorry! Readme file is under construction
+### SUMMARY
 
-<!--
-**zayarhtet/zayarhtet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With a solid background in programming and architectural patterns, I am a skilled software engineer with a passion for solving complex challenges through practical problem-solving, analysis, design, and development. 
 
-Here are some ideas to get you started:
+I am committed to constantly improving my skills and techniques by creating the best possible design with maintainable structure for my programs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+
+- 2021 Sep - 2024 Jun
+  - _**Bachelor of Science - BSc (Computer Science)**_
+  - **Eötvös Loránd University, Budapest**
+
+### Experience
+
+- 2022 Jan - 2024 Mar
+  - _**Software Engineer Co-op**_
+  - **Nokia Solutions and Networks Kft, Budapest**
+
+- 2022 Sep - 2024 Jun
+  - _**Functional Programming Instructor**_
+  - **Eötvös Loránd University, Budapest**
