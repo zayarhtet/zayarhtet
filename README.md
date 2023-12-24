@@ -22,4 +22,4 @@ I am committed to constantly improving my skills and techniques by creating the 
 
 ### Project
 
-### Check out the below projects.
+Check out the below projects:
