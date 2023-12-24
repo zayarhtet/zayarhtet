@@ -20,6 +20,8 @@ I am committed to constantly improving my skills and techniques by creating the 
   - _**Functional Programming Instructor**_
   - **Eötvös Loránd University, Budapest**
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="zayarhtet" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://hu.linkedin.com/in/zayarhtet?trk=profile-badge">Zayar H.</a></div>
+
 ### PROJECTS
 
 Check out the below projects:
