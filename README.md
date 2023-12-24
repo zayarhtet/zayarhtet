@@ -4,13 +4,13 @@ With a solid background in programming and architectural patterns, I am a skille
 
 I am committed to constantly improving my skills and techniques by creating the best possible design with maintainable structure for my programs.
 
-### Education
+### EDUCATION
 
 - 2021 Sep - 2024 Jun
   - _**Bachelor of Science - BSc (Computer Science)**_
   - **Eötvös Loránd University, Budapest**
 
-### Experience
+### EXPERIENCE
 
 - 2022 Jan - 2024 Mar
   - _**Software Engineer Co-op**_
@@ -20,6 +20,6 @@ I am committed to constantly improving my skills and techniques by creating the 
   - _**Functional Programming Instructor**_
   - **Eötvös Loránd University, Budapest**
 
-### Project
+### PROJECTS
 
 Check out the below projects:
