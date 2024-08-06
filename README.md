@@ -12,11 +12,15 @@ I am committed to constantly improving my skills and techniques by creating the 
 
 ### EXPERIENCE
 
-- 2022 Jan - 2024 Mar
+- 2022 Jan - 2024 Jul
   - _**Software Engineer Co-op**_
-  - **Nokia Solutions and Networks Kft, Budapest**
+  - **Nokia, Budapest**
 
-- 2022 Sep - 2024 Jun
+- 2024 Jul - Present
+  - _**Network Exposure Function Junior Developer**_
+  - **Nokia, Budapest**
+
+- 2022 Sep - Present
   - _**Functional Programming Instructor**_
   - **Eötvös Loránd University, Budapest**
 
